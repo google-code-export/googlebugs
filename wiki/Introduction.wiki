@@ -1,0 +1,6 @@
+#summary Introduction to this Google Bugtracker
+#labels Featured
+
+= Introduction =
+
+This site is intended to track bugs in Google services and products. There is absolutely no guarantee that Google will fix these bugs or even look at them. 
