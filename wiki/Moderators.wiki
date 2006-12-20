@@ -3,12 +3,13 @@ Want to be a moderator? Send an e-mail to [mailto:googlebugs@seweso.com googlebu
 
 
 Tasks:
- - De-duplicate the new bugs
- - Accept or Reject bugs
+ # De-duplicate the new bugs
+ # Accept or Reject bugs
+ # Reproduce bugs
 
-
-[http://code.google.com/p/googlebugs/issues/list?can=2&q=-label%3AProduct&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary No product label]
-
+Smart searches
+ * New bugs
+ * [http://code.google.com/p/googlebugs/issues/list?can=2&q=-label%3AProduct&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary No product label]
 
 
 
