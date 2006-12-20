@@ -1,5 +1,5 @@
 #summary Introduction to this Google Bugtracker
-#labels Featured
+#labels Deprecated
 
 = Introduction =
 
