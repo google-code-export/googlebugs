@@ -1,6 +1,7 @@
-#summary Introduction to this Google Bugtracker
-#labels Deprecated
+#summary Introduction to project
+#labels Featured
 
-= Introduction =
+Google seems to be leaving some loose ends in certain services. Many problems are expressed in Google Groups and reported to Google but these problems aren't (publicly) tracked and categorized. This project is created to fill that void.
 
-This site is intended to track bugs in Google services and products. There is absolutely no guarantee that Google will fix these bugs or even look at them. 
+The idea started here: http://blog.outer-court.com/forum/77995.html
+This project was anounced here: http://blog.outer-court.com/archive/2006-12-19.html
