@@ -1,5 +1,5 @@
 #labels Featured
-Want to be a moderator? Send an e-mail to [mailto:googlebugs@seweso.com googlebugs@seweso.com]
+Want to be a moderator? Send an e-mail to [mailto:seweso@gmail.com seweso@gmail.com]
 
 
 Tasks:
@@ -7,9 +7,9 @@ Tasks:
  # Accept or Reject bugs
  # Reproduce bugs
 
-Smart searches
+Searches
  * [http://code.google.com/p/googlebugs/issues/list?can=2&q=status:New&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary New bugs] should be processed by a moderator.
- * [http://code.google.com/p/googlebugs/issues/list?can=2&q=-label%3AProduct&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary No product label]
+ * [http://code.google.com/p/googlebugs/issues/list?can=2&q=-label%3AProduct&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary No product label] should get a product label.
  * [http://code.google.com/p/googlebugs/issues/list?can=2&q=type:Defect&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary Type defect] should be classified as bug or enhancement.
 
 
