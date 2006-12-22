@@ -8,9 +8,9 @@ Tasks:
  # Reproduce bugs
 
 Smart searches
- * New bugs
+ * [http://code.google.com/p/googlebugs/issues/list?can=2&q=status:New&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary New bugs] should be processed by a moderator.
  * [http://code.google.com/p/googlebugs/issues/list?can=2&q=-label%3AProduct&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary No product label]
-
+ * [http://code.google.com/p/googlebugs/issues/list?can=2&q=type:Defect&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary Type defect] should be classified as bug or enhancement.
 
 
 
