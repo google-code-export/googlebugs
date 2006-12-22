@@ -13,5 +13,5 @@ Searches
  * [http://code.google.com/p/googlebugs/issues/list?can=2&q=type:Defect&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary Type defect] should be classified as bug or enhancement.
 
 
-
-
+Tips:
+ * You can add the column 'Product' to the default view.
